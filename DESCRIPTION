@@ -1,0 +1,12 @@
+Package: RAzureOpenAI
+Title: Use Azure OpenAI API for chat from R
+Version: 0.0.0.9000
+Authors@R: 
+    person("Akinori", "Ito", , "a_ito@nifty.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Use Azure OpenAI API for text chatting
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: httr,jsonlite
